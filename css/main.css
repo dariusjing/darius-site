@@ -1,0 +1,37 @@
+
+/*p{color:blue;
+     background-color:blue;
+         text-align:left;
+}
+h1{color:skyblue;
+     background-color:royalblue 
+}
+h2{color:red ;
+}
+#navbar{
+	background-color:red;
+}*/
+.dropdown{
+			display: block;
+		}
+
+.dropdown-content
+		{
+			display:none  ;
+			position:absolute;
+			background-color:#7DFFFF;
+			color:#000080;
+			padding:5px;
+			box-shadow: 5px 5px 10px black ;
+		}
+		
+.dropdown:hover .dropdown-content{
+			display: block;
+		}
+./*active{
+	background-color:lightcoral;
+}
+a {
+	color:navy;
+	text-decoration:none;
+}*/
